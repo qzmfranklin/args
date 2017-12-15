@@ -47,3 +47,6 @@ Makefile
 *-prefix
 gitlike
 /pages/
+
+# Bazel files.
+bazel-*
